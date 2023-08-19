@@ -1,0 +1,6 @@
+flask
+requests
+pymongo
+dnspython
+gunicorn
+python-dotenv
